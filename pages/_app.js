@@ -1,7 +1,7 @@
 function MyApp({ Component, pageProps }) {
   return (
     <> 
-      <style>{`
+      <style>{/*css*/`
         * {
           font-family: sans-serif; 
         }
